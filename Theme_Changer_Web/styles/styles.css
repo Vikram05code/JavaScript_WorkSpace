@@ -1,0 +1,23 @@
+/* Additional styles for the website */
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: hwb(175 0% 78%);
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+main {
+    margin: 20px;
+}
+
+button {
+    padding: 5px 10px;
+    background-color: #333;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
