@@ -17,3 +17,4 @@ darkThemeButton.addEventListener('click', () => {
 blueThemeButton.addEventListener('click', () => {
     themeStylesheet.setAttribute('href', 'styles/blue-theme.css');
 });
+
